@@ -30,18 +30,15 @@ const About = () => {
             />
           </div>
           <div>
-            <h2 className="text-3xl font-playfair font-medium text-navy mb-6">Our Story</h2>
+            <h2 className="text-3xl font-playfair font-medium text-navy mb-6">About Fineluxe</h2>
             <p className="text-gray-700 mb-6">
-              Since our founding in 2005, LuxGems has been dedicated to crafting exquisite jewelry that celebrates life's most precious moments. Our journey began with a simple passion for creating beautiful pieces that would become cherished heirlooms.
+              Fineluxe is a premier jewelry enterprise dedicated to bringing you the finest handcrafted pieces that celebrate life's most treasured moments. Founded on a passion for exceptional design and unwavering quality, we specialize in a broad spectrum of jewelry—ranging from timeless gold and sterling silver classics to contemporary gemstone creations, bespoke engagement rings, and exclusive limited-edition collections. Each piece in our catalog is thoughtfully curated or custom-crafted by master artisans, ensuring that every jewel radiates elegance, durability, and individuality.
             </p>
             <p className="text-gray-700 mb-6">
-              What sets us apart is our unwavering commitment to craftsmanship and quality. Every piece in our collection is meticulously designed and handcrafted by our team of master artisans, using only the finest materials sourced from around the world.
+              At Fineluxe, we believe that jewelry is more than adornment—it's an expression of personal style and a keepsake of memories. That's why we source only ethically mined gemstones and premium metals, and maintain rigorous quality control at every stage of production. Whether you're searching for a dazzling statement necklace to elevate a special occasion, a pair of refined earrings for everyday sophistication, or a custom design that tells your unique story, our expert team is here to guide you through every step of the process.
             </p>
-            <blockquote className="border-l-4 border-gold pl-4 italic text-gray-600 my-8">
-              "We believe that jewelry should be more than just an accessory—it should tell a story and capture a moment in time."
-            </blockquote>
             <p className="text-gray-700">
-              Today, we continue to expand our legacy, creating contemporary pieces that honor traditional techniques while embracing modern design. Our jewelry is worn and loved by customers across the globe, becoming part of their most significant life stories.
+              Our mission is to make luxury accessible, transparent, and deeply personal. We're committed to exceptional customer care—from seamless online browsing and personalized design consultations, to secure packaging and timely delivery. At Fineluxe, your satisfaction is our highest priority: we invite you to explore our collections, discover your signature piece, and join a community that values artistry, integrity, and the enduring beauty of fine jewelry.
             </p>
           </div>
         </div>
