@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="col-span-1">
             <Link to="/" className="flex items-center">
-              <span className="text-2xl font-playfair font-bold text-white">Lux<span className="text-gold">Gems</span></span>
+              <span className="text-2xl font-playfair font-bold text-white">Fine<span className="text-gold">luxe</span></span>
             </Link>
             <p className="mt-4 text-gray-300">
               Crafting exquisite jewelry pieces that celebrate life's most precious moments.
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-navy-700 text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} LuxGems. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Fineluxe. All rights reserved.</p>
         </div>
       </div>
     </footer>
