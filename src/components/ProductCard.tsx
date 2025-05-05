@@ -39,7 +39,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
               <span className="text-white font-semibold">{formattedPrice}</span>
               <button 
                 onClick={handleAddToCart} 
-                className="bg-gold hover:bg-gold-600 text-white p-2 rounded-full transition-colors"
+                className="bg-nude hover:bg-nude-600 text-brown p-2 rounded-full transition-colors"
                 aria-label="Add to cart"
               >
                 <ShoppingCart size={18} />
@@ -48,7 +48,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           </div>
         </div>
         <div className="p-4">
-          <h3 className="text-navy font-medium text-lg mb-1 truncate">
+          <h3 className="text-brown font-medium text-lg mb-1 truncate">
             {product.title}
           </h3>
           <p className="text-gray-500 text-sm">

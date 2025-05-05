@@ -1,4 +1,3 @@
-
 import { Product } from '../context/CartContext';
 
 // Mock API data for products since we're not connecting to a real backend yet
@@ -39,7 +38,7 @@ const mockProducts: Product[] = [
     id: "5",
     title: "Emerald Pendant",
     price: 2199,
-    image: "https://images.unsplash.com/photo-1599459183200-59c7687a0c39?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZW1lcmFsZCUyMG5lY2tsYWNlfGVufDB8fDB8fHww",
+    image: "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW1lcmFsZCUyMHBlbmRhbnR8ZW58MHx8MHx8fDA%3D",
     category: "necklaces",
     description: "Vibrant Colombian emerald pendant surrounded by a halo of diamonds, suspended on an 18k white gold chain."
   },
