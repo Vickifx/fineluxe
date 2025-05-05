@@ -47,7 +47,7 @@ const mockProducts: Product[] = [
     id: "6",
     title: "Rose Gold Wedding Band",
     price: 999,
-    image: "https://images.unsplash.com/photo-1594253410747-9bd55d2edc9e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cm9zZSUyMGdvbGQlMjByaW5nfGVufDB8fDB8fHww",
+    image: "https://images.unsplash.com/photo-1595925889916-5412a7d51570?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cm9zZSUyMGdvbGQlMjByaW5nfGVufDB8fDB8fHww",
     category: "rings",
     description: "Elegant 4mm comfort-fit wedding band crafted in 14k rose gold with a high-polish finish."
   },
@@ -55,7 +55,7 @@ const mockProducts: Product[] = [
     id: "7",
     title: "Diamond Hoop Earrings",
     price: 1599,
-    image: "https://images.unsplash.com/photo-1613767698051-7174add868cf?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvb3AlMjBlYXJyaW5nc3xlbnwwfHwwfHx8MA%3D%3D",
+    image: "https://images.unsplash.com/photo-1656428851901-77b5bf16687b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGRpYW1vbmQlMjBlYXJyaW5nc3xlbnwwfHwwfHx8MA%3D",
     category: "earrings",
     description: "Sophisticated diamond hoop earrings featuring 2 carats of round brilliant diamonds set in 18k white gold."
   },
