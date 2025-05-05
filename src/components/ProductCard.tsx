@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Product, useCart } from '../context/CartContext';
-import { ShoppingBag } from 'lucide-react';
+import { ShoppingCart } from 'lucide-react';
 import { toast } from 'sonner';
 
 interface ProductCardProps {
@@ -42,7 +42,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
                 className="bg-gold hover:bg-gold-600 text-white p-2 rounded-full transition-colors"
                 aria-label="Add to cart"
               >
-                <ShoppingBag size={18} />
+                <ShoppingCart size={18} />
               </button>
             </div>
           </div>

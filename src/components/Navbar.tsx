@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ShoppingBag, Menu, X } from 'lucide-react';
+import { ShoppingCart, Menu, X } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 
 const Navbar = () => {
@@ -37,7 +37,7 @@ const Navbar = () => {
           {/* Cart Icon */}
           <div className="flex items-center">
             <Link to="/cart" className="relative p-2 text-navy hover:text-gold transition-colors">
-              <ShoppingBag size={24} />
+              <ShoppingCart size={24} />
               {totalItems > 0 && (
                 <span className="absolute -top-1 -right-1 bg-gold text-white rounded-full w-5 h-5 flex items-center justify-center text-xs">
                   {totalItems}

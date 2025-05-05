@@ -15,7 +15,7 @@ const mockProducts: Product[] = [
     id: "2",
     title: "Pearl Necklace",
     price: 1299,
-    image: "https://images.unsplash.com/photo-1611085583191-a3b181a88552?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVhcmwlMjBuZWNrbGFjZXxlbnwwfHwwfHx8MA%3D%3D",
+    image: "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGVhcmwlMjBuZWNrbGFjZXxlbnwwfHwwfHx8MA%3D%3D",
     category: "necklaces",
     description: "Elegant freshwater pearl necklace with 14k gold clasp. Each pearl is hand-selected for its luster and shape."
   },
@@ -39,7 +39,7 @@ const mockProducts: Product[] = [
     id: "5",
     title: "Emerald Pendant",
     price: 2199,
-    image: "https://images.unsplash.com/photo-1603974372039-adc49044b6bd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZW1lcmFsZCUyMHBlbmRhbnR8ZW58MHx8MHx8fDA%3D",
+    image: "https://images.unsplash.com/photo-1599459183200-59c7687a0c39?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZW1lcmFsZCUyMG5lY2tsYWNlfGVufDB8fDB8fHww",
     category: "necklaces",
     description: "Vibrant Colombian emerald pendant surrounded by a halo of diamonds, suspended on an 18k white gold chain."
   },
@@ -63,7 +63,7 @@ const mockProducts: Product[] = [
     id: "8",
     title: "Platinum Chain Bracelet",
     price: 2799,
-    image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGxhdGludW0lMjBicmFjZWxldHxlbnwwfHwwfHx8MA%3D",
+    image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGxhdGludW0lMjBicmFjZWxldHxlbnwwfHwwfHx8MA%3D%3D",
     category: "bracelets",
     description: "Luxurious platinum chain bracelet with a sleek contemporary design and secure lobster clasp."
   }
