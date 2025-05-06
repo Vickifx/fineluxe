@@ -51,7 +51,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           <h3 className="text-brown font-medium text-lg mb-1 truncate">
             {product.title}
           </h3>
-          <p className="text-gray-500 text-sm">
+          <p className="text-brown-500 text-sm">
             {product.category.charAt(0).toUpperCase() + product.category.slice(1)}
           </p>
         </div>
